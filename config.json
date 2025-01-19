@@ -1,0 +1,6 @@
+{
+    "app_id": "B10802050-0d06a420-cf9e-4d63",
+    "app_key": "a5bb46ba-5a15-46db-9d5a-720c58de3e9f",
+    "topic": "B10802050Bus",
+    "server": "localhost:9092"
+}
